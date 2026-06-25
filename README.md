@@ -1,7 +1,6 @@
 <div align="center">
 
 # Olá, eu sou o Kauã 👋
-
 ### Full-Stack Developer | Especialista em IA & LLMs
 
 </div>
@@ -26,14 +25,8 @@ const kaua = {
 ## 🚀 Experiência Profissional
 
 **Orbitmind** — Full-Stack Pleno (foco em IA/LLM)
-Liderando o desenvolvimento de múltiplos produtos de IA em produção:
 
-- **Orbitmind** — agentes omnichannel para WhatsApp
-- **Vektus** — Document Intelligence com RAG
-- **ComplianceCore** — compliance SaaS multi-vertical
-- **NexBot** — automação inteligente
-- **Synthex** — plataforma de agentes de IA
-- **QueueOS** — orquestração de filas e processamento assíncrono
+Liderando o desenvolvimento de múltiplos produtos de IA em produção: plataformas de agentes omnichannel, Document Intelligence com RAG, automação inteligente e sistemas AI-native de ponta a ponta.
 
 ---
 
@@ -43,9 +36,11 @@ Liderando o desenvolvimento de múltiplos produtos de IA em produção:
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| TypeScript | Next.js | NestJS | PostgreSQL |
-| pgvector | Prisma | Drizzle | Docker |
-| Turborepo | Node.js | Vercel AI SDK | REST API |
+| TypeScript | Python | Next.js | NestJS |
+| PostgreSQL | pgvector | Prisma | Drizzle |
+| Docker | Kubernetes | Kafka | Turborepo |
+| Node.js | FastAPI | Vercel AI SDK | REST API |
+| AWS | Terraform | GitHub Actions | Prometheus |
 
 </div>
 
@@ -67,9 +62,9 @@ Liderando o desenvolvimento de múltiplos produtos de IA em produção:
       ▼           ▼          ▼        ▼
 ┌───────────────────────────────────────────┐
 │        Vercel AI SDK · RAG · pgvector      │
-├─────────────────────────────────────────────┤
+├────────────────────────────────────────────┤
 │   Agentes Omnichannel · Document Intelligence │
-│   Compliance SaaS · Automação Inteligente     │
+│   Event-Driven Systems · Automação Inteligente│
 └───────────────────────────────────────────────┘
 ```
 
